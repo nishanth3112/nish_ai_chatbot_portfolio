@@ -1,0 +1,44 @@
+[
+  {
+    "id": "skills-programming-data",
+    "title": "Programming and Data Stack",
+    "content": "Core programming and data tools include Python, SQL, PySpark, Spark SQL, Pandas, NumPy, Scikit-learn, MySQL, SQL Server, and MongoDB.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "skills-ai-ml",
+    "title": "AI and Machine Learning",
+    "content": "AI and machine learning skills include PyTorch, TensorFlow, JAX, Transformers, Diffusers, SentenceTransformers, spaCy, OpenCV, CNN and LSTM modeling, tokenization, and applied NLP workflows.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "skills-llm-rag",
+    "title": "LLM, RAG, and Agentic Systems",
+    "content": "Experienced with LangChain, LlamaIndex, FAISS, Chroma, Hugging Face, OpenAI API integrations, prompt engineering, chain-of-thought prompting, retrieval-augmented generation, memory management, AI agents, reranking evaluation, and hallucination risk assessment.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "skills-data-engineering",
+    "title": "Data Engineering and Pipeline Tooling",
+    "content": "Data engineering skills include ETL and ELT design, Airflow, dbt, Snowflake, Kafka, Spark, Databricks, CI/CD workflows, GitHub Actions, FastAPI, and Streamlit-based application delivery.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "skills-cloud-platforms",
+    "title": "Cloud and Infrastructure",
+    "content": "Cloud and infrastructure experience includes AWS services such as S3, EC2, Lambda, Bedrock, SageMaker, Glue, Athena, EMR, Redshift, QuickSight, CloudWatch, and SNS, along with Azure Data Factory, Azure Logic Apps, Azure Data Lake Storage, Microsoft Fabric, and Docker.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "skills-analytics-viz",
+    "title": "Analytics and Visualization",
+    "content": "Analytics and visualization tools include Tableau, Power BI, Looker, Amazon QuickSight, Excel with VBA and Power Query, Matplotlib, Seaborn, Flourish, and Datawrapper.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "skills-dev-tools",
+    "title": "Developer and Collaboration Tools",
+    "content": "Developer workflow tools listed across resume variants include Git, version control, JIRA, Confluence, VS Code, Cursor, Claude Code, Codex, and Antigravity IDE.",
+    "url": "https://github.com/nishanth3112"
+  }
+]

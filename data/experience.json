@@ -1,0 +1,26 @@
+[
+  {
+    "id": "exp-exact-sciences-genai",
+    "title": "Generative AI Engineer Co-op at Exact Sciences",
+    "content": "Served as a Generative AI Engineer Co-op at Exact Sciences in Madison, Wisconsin from January 2026 to Present. Built retrieval benchmarks comparing BM25 and dense embeddings, evaluated rerankers and embedding models, designed enterprise RAG evaluation frameworks, and helped develop an agentic chatbot with hallucination and PII risk evaluation.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "exp-neu-gta",
+    "title": "Graduate Teaching Assistant at Northeastern University",
+    "content": "Worked as a Graduate Teaching Assistant at the College of Engineering, Northeastern University in Boston from January 2025 to April 2025. Taught Python-based data preprocessing, statistical modeling, clustering, NLP, and time-series forecasting to 50 or more students while supporting labs, assessments, and project reviews.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "exp-swed-data-analyst",
+    "title": "Data Analyst Intern at SWEDEnterprises",
+    "content": "Completed a Data Analyst Internship at SWEDEnterprises in Tiruchirappalli, India from January 2024 to June 2024. Built SQL and Python SCD frameworks on ERP and scrap data, created Tableau dashboards, automated validation and cleansing, developed forecasting pipelines, and supported supply-chain analysis that reduced waste and operational costs.",
+    "url": null
+  },
+  {
+    "id": "exp-skill-vertex-cloud",
+    "title": "Cloud Infrastructure Analyst Intern at Skill Vertex",
+    "content": "Worked as a Cloud Infrastructure Analyst Intern at Skill Vertex in Bangalore, India from March 2022 to April 2022. Provisioned AWS services including EC2, S3, and IAM, implemented CloudWatch monitoring, optimized cloud costs, automated backup and recovery workflows, and strengthened governance with IAM policies and SSL controls.",
+    "url": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "profile-summary",
+    "title": "Professional Summary",
+    "content": "Nishanth Manoharan is a Data Analytics Engineering graduate student at Northeastern University and a recruiter-facing candidate with experience across generative AI, data engineering, analytics, and machine learning. His work spans retrieval evaluation, RAG systems, data pipelines, forecasting, dashboarding, and applied NLP.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "profile-education-neu",
+    "title": "Northeastern University",
+    "content": "Master of Science in Data Analytics Engineering at Northeastern University in Boston, Massachusetts, with expected graduation in December 2026.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "profile-education-srm",
+    "title": "SRM Institute of Science and Technology",
+    "content": "Bachelor of Technology in Computer Science completed at SRM Institute of Science and Technology in Chennai, India, from June 2020 to June 2024.",
+    "url": null
+  },
+  {
+    "id": "profile-coursework",
+    "title": "Relevant Graduate Coursework",
+    "content": "Relevant coursework includes Neural Networks and Deep Learning, Applied Natural Language Processing, and Data Mining in Engineering.",
+    "url": null
+  },
+  {
+    "id": "profile-certifications",
+    "title": "Certifications",
+    "content": "Certifications include AWS Certified AI Practitioner and Databricks Certified Data Engineer Associate. A Generative AI Associate certification is listed as in progress on one resume variant.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  }
+]

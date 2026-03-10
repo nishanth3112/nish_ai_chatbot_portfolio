@@ -1,0 +1,32 @@
+[
+  {
+    "id": "link-linkedin",
+    "title": "LinkedIn",
+    "content": "Nishanth Manoharan's LinkedIn profile.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "link-github",
+    "title": "GitHub",
+    "content": "Nishanth Manoharan's GitHub profile for projects, code samples, and technical work.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "link-portfolio",
+    "title": "Portfolio Website",
+    "content": "Public portfolio website for NishAI and recruiter-facing project presentation.",
+    "url": "https://nish-ai-base.base44.app"
+  },
+  {
+    "id": "link-location",
+    "title": "Current Location",
+    "content": "Current location listed on the resumes is Boston, Massachusetts.",
+    "url": null
+  },
+  {
+    "id": "link-email",
+    "title": "Email Contact",
+    "content": "Resume contact email is manoharan.ni@northeastern.edu.",
+    "url": null
+  }
+]
