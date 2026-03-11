@@ -1,26 +1,34 @@
 [
   {
-    "id": "exp-exact-sciences-genai",
+    "id": "experience-exact-sciences",
+    "source": "experience",
+    "section": "current-role",
     "title": "Generative AI Engineer Co-op at Exact Sciences",
-    "content": "Served as a Generative AI Engineer Co-op at Exact Sciences in Madison, Wisconsin from January 2026 to Present. Built retrieval benchmarks comparing BM25 and dense embeddings, evaluated rerankers and embedding models, designed enterprise RAG evaluation frameworks, and helped develop an agentic chatbot with hallucination and PII risk evaluation.",
+    "content": "Nishanth has been a Generative AI Engineer Co-op at Exact Sciences in Madison, Wisconsin since January 2026. His work includes retrieval benchmarking, reranker evaluation, embedding model benchmarking, enterprise RAG evaluation design, synthetic knowledge base generation, and LLM evaluation for hallucination and PII risk.",
     "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
   },
   {
-    "id": "exp-neu-gta",
+    "id": "experience-neu-gta",
+    "source": "experience",
+    "section": "experience",
     "title": "Graduate Teaching Assistant at Northeastern University",
-    "content": "Worked as a Graduate Teaching Assistant at the College of Engineering, Northeastern University in Boston from January 2025 to April 2025. Taught Python-based data preprocessing, statistical modeling, clustering, NLP, and time-series forecasting to 50 or more students while supporting labs, assessments, and project reviews.",
+    "content": "He worked as a Graduate Teaching Assistant at the College of Engineering, Northeastern University from January 2025 to April 2025. He instructed students in Python, statistical modeling, clustering, NLP, and time-series forecasting while supporting labs, coding assessments, and project reviews.",
     "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
   },
   {
-    "id": "exp-swed-data-analyst",
+    "id": "experience-swed",
+    "source": "experience",
+    "section": "experience",
     "title": "Data Analyst Intern at SWEDEnterprises",
-    "content": "Completed a Data Analyst Internship at SWEDEnterprises in Tiruchirappalli, India from January 2024 to June 2024. Built SQL and Python SCD frameworks on ERP and scrap data, created Tableau dashboards, automated validation and cleansing, developed forecasting pipelines, and supported supply-chain analysis that reduced waste and operational costs.",
+    "content": "At SWEDEnterprises from January 2024 to June 2024, Nishanth built SQL and Python SCD frameworks on ERP and scrap data, created Tableau dashboards, automated validation and cleansing, built forecasting pipelines, and supported supply-chain analysis that improved accuracy, reduced waste, and lowered operational costs.",
     "url": null
   },
   {
-    "id": "exp-skill-vertex-cloud",
+    "id": "experience-skill-vertex",
+    "source": "experience",
+    "section": "experience",
     "title": "Cloud Infrastructure Analyst Intern at Skill Vertex",
-    "content": "Worked as a Cloud Infrastructure Analyst Intern at Skill Vertex in Bangalore, India from March 2022 to April 2022. Provisioned AWS services including EC2, S3, and IAM, implemented CloudWatch monitoring, optimized cloud costs, automated backup and recovery workflows, and strengthened governance with IAM policies and SSL controls.",
+    "content": "At Skill Vertex from March 2022 to April 2022, he provisioned AWS infrastructure, implemented monitoring and alerting, optimized cloud costs, automated backup and recovery workflows, and applied IAM and SSL controls for secure operations.",
     "url": null
   }
 ]

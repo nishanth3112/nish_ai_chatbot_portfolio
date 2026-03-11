@@ -1,0 +1,42 @@
+[
+  {
+    "id": "linkedin-headline",
+    "source": "linkedin",
+    "section": "headline",
+    "title": "LinkedIn Professional Snapshot",
+    "content": "LinkedIn-aligned professional profile for Nishanth Manoharan highlights his background in generative AI, analytics engineering, data engineering, RAG systems, machine learning, and recruiter-focused technical projects.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "linkedin-about",
+    "source": "linkedin",
+    "section": "about",
+    "title": "LinkedIn About Summary",
+    "content": "Nishanth's public professional profile centers on building grounded AI systems, analytics solutions, data pipelines, and decision-support tools using cloud, machine learning, and business intelligence platforms.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "linkedin-exact-sciences",
+    "source": "linkedin",
+    "section": "experience",
+    "title": "LinkedIn Experience Highlight: Exact Sciences",
+    "content": "Exact Sciences is his current professional role, where he works on enterprise retrieval evaluation, embedding and reranker benchmarking, synthetic knowledge generation, and LLM quality evaluation for grounded assistant behavior.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "linkedin-education",
+    "source": "linkedin",
+    "section": "education",
+    "title": "LinkedIn Education Highlight",
+    "content": "His education background includes a Master of Science in Data Analytics Engineering at Northeastern University and a Bachelor of Technology in Computer Science from SRM Institute of Science and Technology.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "linkedin-highlights",
+    "source": "linkedin",
+    "section": "highlights",
+    "title": "LinkedIn Highlights",
+    "content": "LinkedIn-relevant highlights include experience across generative AI, RAG, enterprise retrieval evaluation, analytics engineering, dashboarding, forecasting, and cloud-based data systems.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  }
+]

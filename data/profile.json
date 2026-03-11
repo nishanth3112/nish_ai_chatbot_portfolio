@@ -1,32 +1,34 @@
 [
   {
     "id": "profile-summary",
-    "title": "Professional Summary",
-    "content": "Nishanth Manoharan is a Data Analytics Engineering graduate student at Northeastern University and a recruiter-facing candidate with experience across generative AI, data engineering, analytics, and machine learning. His work spans retrieval evaluation, RAG systems, data pipelines, forecasting, dashboarding, and applied NLP.",
+    "source": "profile",
+    "section": "summary",
+    "title": "Who is Nishanth Manoharan?",
+    "content": "Nishanth Manoharan is a Data Analytics Engineering graduate student at Northeastern University and a recruiter-facing candidate with experience across generative AI, retrieval-augmented generation, data engineering, analytics, machine learning, and dashboarding.",
     "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
   },
   {
-    "id": "profile-education-neu",
-    "title": "Northeastern University",
-    "content": "Master of Science in Data Analytics Engineering at Northeastern University in Boston, Massachusetts, with expected graduation in December 2026.",
+    "id": "profile-location",
+    "source": "profile",
+    "section": "location",
+    "title": "Current Location",
+    "content": "Nishanth's resumes list his current location as Boston, Massachusetts.",
     "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
   },
   {
-    "id": "profile-education-srm",
-    "title": "SRM Institute of Science and Technology",
-    "content": "Bachelor of Technology in Computer Science completed at SRM Institute of Science and Technology in Chennai, India, from June 2020 to June 2024.",
-    "url": null
-  },
-  {
-    "id": "profile-coursework",
-    "title": "Relevant Graduate Coursework",
-    "content": "Relevant coursework includes Neural Networks and Deep Learning, Applied Natural Language Processing, and Data Mining in Engineering.",
-    "url": null
+    "id": "profile-focus",
+    "source": "profile",
+    "section": "focus",
+    "title": "Core Focus Areas",
+    "content": "His core focus areas include RAG systems, LLM evaluation, data pipelines, analytics engineering, recruiter-friendly AI assistants, forecasting, NLP, and business intelligence workflows.",
+    "url": "https://github.com/nishanth3112"
   },
   {
     "id": "profile-certifications",
+    "source": "profile",
+    "section": "certifications",
     "title": "Certifications",
-    "content": "Certifications include AWS Certified AI Practitioner and Databricks Certified Data Engineer Associate. A Generative AI Associate certification is listed as in progress on one resume variant.",
+    "content": "Certifications listed across the resume set include AWS Certified AI Practitioner and Databricks Certified Data Engineer Associate. One resume variant also notes a Generative AI Associate certification in progress.",
     "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
   }
 ]

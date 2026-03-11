@@ -1,0 +1,58 @@
+[
+  {
+    "id": "faq-who-is-nishanth",
+    "source": "faq",
+    "section": "summary",
+    "title": "Who is Nishanth?",
+    "content": "Nishanth Manoharan is a Data Analytics Engineering graduate student at Northeastern University with experience in generative AI, RAG systems, data engineering, analytics, and machine learning.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "faq-current-role",
+    "source": "faq",
+    "section": "experience",
+    "title": "What is his current role?",
+    "content": "His current role is Generative AI Engineer Co-op at Exact Sciences in Madison, Wisconsin.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "faq-exact-sciences",
+    "source": "faq",
+    "section": "experience",
+    "title": "What does he do at Exact Sciences?",
+    "content": "At Exact Sciences, Nishanth works on retrieval benchmarking, reranker and embedding evaluation, enterprise RAG evaluation design, synthetic knowledge base generation, and LLM evaluation for hallucination and PII risk.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "faq-rag-experience",
+    "source": "faq",
+    "section": "skills",
+    "title": "What is his RAG experience?",
+    "content": "His RAG experience includes retrieval benchmarking, reranker evaluation, embedding comparisons, enterprise retrieval evaluation, LangChain-based assistants, Chroma and FAISS usage, Microsoft Fabric integrations, and project work on agentic and multimodal chatbots.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "faq-projects",
+    "source": "faq",
+    "section": "projects",
+    "title": "What projects has he built?",
+    "content": "He has built projects including an Autonomous Agentic Wealth Management Chatbot, a Multimodal RAG-Based Food Recommendation System, a Conversational EDA Chatbot, an Intelligent Financial Reporting Agent, and multiple data engineering pipelines.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "faq-tools",
+    "source": "faq",
+    "section": "skills",
+    "title": "What tools does he use?",
+    "content": "His stack includes Python, SQL, PySpark, LangChain, LlamaIndex, FAISS, Chroma, PyTorch, TensorFlow, Snowflake, dbt, Airflow, Tableau, Power BI, AWS, Azure, Databricks, Docker, and Microsoft Fabric.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "faq-education",
+    "source": "faq",
+    "section": "education",
+    "title": "What is his education background?",
+    "content": "He is pursuing a Master of Science in Data Analytics Engineering at Northeastern University and completed a Bachelor of Technology in Computer Science at SRM Institute of Science and Technology.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  }
+]

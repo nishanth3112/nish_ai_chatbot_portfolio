@@ -1,86 +1,66 @@
 [
   {
-    "id": "proj-agentic-wealth-chatbot",
+    "id": "projects-wealth-chatbot",
+    "source": "projects",
+    "section": "project",
     "title": "Autonomous Agentic Wealth Management Chatbot",
-    "content": "Built an agentic AI chatbot for financial risk analysis and adaptive investment planning using RAG, chain-of-thought prompting, LangChain agents, ChromaDB, GPT-4, Flask, and Microsoft Fabric. The system supported multi-agent reasoning and contextual memory for personalized financial assistance.",
+    "content": "Built an agentic AI chatbot for financial risk analysis and adaptive investment planning using RAG, chain-of-thought prompting, LangChain agents, ChromaDB, GPT-4, Flask, and Microsoft Fabric. The system supported contextual memory and tool-using multi-agent reasoning.",
     "url": "https://github.com/nishanth3112"
   },
   {
-    "id": "proj-multimodal-food-rag",
+    "id": "projects-food-rag",
+    "source": "projects",
+    "section": "project",
     "title": "Multimodal RAG-Based Food Recommendation System",
-    "content": "Developed a multimodal recommendation chatbot using AWS Bedrock, FAISS, Titan embeddings, Claude Sonnet, Streamlit, and S3. The project combined image and text understanding to return context-aware food suggestions.",
+    "content": "Developed a multimodal recommendation chatbot using AWS Bedrock, FAISS, Titan embeddings, Claude Sonnet, Streamlit, and S3. The system combined image and text understanding for context-aware food recommendations.",
     "url": "https://github.com/nishanth3112"
   },
   {
-    "id": "proj-conversational-eda",
+    "id": "projects-eda-chatbot",
+    "source": "projects",
+    "section": "project",
     "title": "Conversational EDA Chatbot",
-    "content": "Created a conversational exploratory data analysis assistant using GPT-4, LangChain, Streamlit, MySQL, and the OpenAI API. The system translated natural-language questions into SQL, generated visualizations, and reduced manual analysis effort.",
+    "content": "Created a conversational exploratory data analysis assistant using GPT-4, LangChain, Streamlit, MySQL, and the OpenAI API. The system converted natural-language questions into SQL and generated recruiter-friendly analytic outputs.",
     "url": "https://github.com/nishanth3112"
   },
   {
-    "id": "proj-intelligent-financial-reporting",
+    "id": "projects-financial-reporting-agent",
+    "source": "projects",
+    "section": "project",
     "title": "Intelligent Financial Reporting Agent",
-    "content": "Built a financial reporting assistant using GPT-4 with retrieval-augmented generation, LangChain, Vanna AI, and Microsoft Fabric. The project centralized multi-source wealth data and enabled natural-language querying for performance analysis and reporting.",
+    "content": "Built a financial reporting assistant using GPT-4 with retrieval-augmented generation, LangChain, Vanna AI, and Microsoft Fabric. The project centralized wealth data and enabled natural-language financial analysis and reporting.",
     "url": "https://github.com/nishanth3112"
   },
   {
-    "id": "proj-clinical-notes-classification",
-    "title": "Clinical Notes Disease Classification",
-    "content": "Developed an NLP classification pipeline for disease prediction from clinical notes using transformers, TF-IDF, sequence encoding, PyTorch, XGBoost, and ensemble methods. One resume variant reports 98 percent accuracy on a dataset of more than 18,000 clinical notes.",
-    "url": "https://github.com/nishanth3112"
-  },
-  {
-    "id": "proj-fashion-image-generation",
-    "title": "Fashion Product Image Generation",
-    "content": "Built a text-to-image generation workflow using diffusion models, CLIP evaluation, Hugging Face Diffusers, and image quality metrics including FID and Inception Score to compare configurations for fashion image synthesis.",
-    "url": "https://github.com/nishanth3112"
-  },
-  {
-    "id": "proj-genomic-interpretation",
-    "title": "Enhancing Genomic Data Interpretation",
-    "content": "Created a genomic NLP pipeline using tokenization, PyTorch, CNN-based modeling, and comparative machine learning experiments to classify genomic sequences. One resume variant reports 91.3 percent prediction accuracy.",
-    "url": "https://github.com/nishanth3112"
-  },
-  {
-    "id": "proj-cloud-native-transformation",
+    "id": "projects-cloud-native-pipeline",
+    "source": "projects",
+    "section": "project",
     "title": "Cloud-Native Data Transformation Pipeline",
-    "content": "Designed an end-to-end ETL pipeline with Snowflake, dbt, Airflow, AWS S3, SNS, EC2, and QuickSight. The project automated ingestion, transformation, scheduling, data quality checks, and alerting for analytics workflows.",
+    "content": "Designed an end-to-end ETL pipeline with Snowflake, dbt, Airflow, AWS S3, SNS, EC2, and QuickSight. The system automated ingestion, transformation, scheduling, quality checks, and pipeline alerting.",
     "url": "https://github.com/nishanth3112"
   },
   {
-    "id": "proj-distributed-log-analytics",
-    "title": "Distributed Log Analytics Pipeline on Azure",
-    "content": "Engineered a distributed log analytics system on Azure using Hadoop, Spark, Hive, Flume, Scala, and SQL to process NASA web logs and support structured querying and operational insight generation.",
-    "url": "https://github.com/nishanth3112"
-  },
-  {
-    "id": "proj-medallion-water-pipeline",
-    "title": "Scalable Data Pipeline with Medallion Architecture",
-    "content": "Built a Medallion Architecture pipeline on Azure with Logic Apps, Databricks, Data Lake Storage, Data Factory, and Power BI to process more than 1 million water sensor records and publish analytics-ready reporting layers.",
-    "url": "https://github.com/nishanth3112"
-  },
-  {
-    "id": "proj-financial-data-pipeline",
+    "id": "projects-financial-data-pipeline",
+    "source": "projects",
+    "section": "project",
     "title": "Real-Time Financial Data Pipeline",
-    "content": "Implemented a real-time AWS-based financial pipeline using S3, EC2, EMR, Glue, Athena, Docker, and PySpark to normalize multi-currency transactions and enable near real-time analytical access.",
+    "content": "Implemented a real-time AWS financial data pipeline using S3, EC2, EMR, Glue, Athena, Docker, and PySpark to normalize multi-currency transaction data and support near real-time analytical access.",
     "url": "https://github.com/nishanth3112"
   },
   {
-    "id": "proj-working-capital-analysis",
+    "id": "projects-clinical-notes",
+    "source": "projects",
+    "section": "project",
+    "title": "Clinical Notes Disease Classification",
+    "content": "Developed an NLP classification pipeline for disease prediction from clinical notes using transformers, TF-IDF, sequence encoding, PyTorch, XGBoost, and ensemble models. One resume variant reports 98 percent accuracy on more than 18,000 clinical notes.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "projects-working-capital",
+    "source": "projects",
+    "section": "project",
     "title": "Working Capital Management Analysis",
-    "content": "Built Tableau dashboards for accounts receivable and accounts payable analysis using AWS RDS and SQL Server. The project applied DSO and DPO metrics to evaluate working capital performance across customers and suppliers.",
-    "url": "https://github.com/nishanth3112"
-  },
-  {
-    "id": "proj-customer-segmentation-rfm",
-    "title": "Customer Segmentation using RFM Analysis",
-    "content": "Performed RFM-based customer segmentation with Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Seaborn. The project used K-Means clustering to identify customer behavior patterns for retention-focused marketing decisions.",
-    "url": "https://github.com/nishanth3112"
-  },
-  {
-    "id": "proj-integrated-inventory-management",
-    "title": "Integrated Inventory Management System",
-    "content": "Designed an inventory and sales management database using MySQL, MongoDB, Python, UML, and EER modeling. The system supported customers, orders, payments, stock management, and reporting workflows.",
+    "content": "Built Tableau dashboards for accounts receivable and accounts payable analysis using AWS RDS and SQL Server, applying DSO and DPO metrics to evaluate working capital performance.",
     "url": "https://github.com/nishanth3112"
   }
 ]

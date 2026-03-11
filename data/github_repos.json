@@ -1,0 +1,42 @@
+[
+  {
+    "id": "github-repo-wealth-chatbot",
+    "source": "github",
+    "section": "repo",
+    "title": "Autonomous Agentic Wealth Management Chatbot Repository",
+    "content": "Important GitHub project focused on an agentic wealth management chatbot. Purpose: financial risk analysis and adaptive investment planning. Tools: RAG, chain-of-thought prompting, LangChain agents, ChromaDB, GPT-4, Flask, and Microsoft Fabric.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "github-repo-food-rag",
+    "source": "github",
+    "section": "repo",
+    "title": "Multimodal RAG Food Recommendation Repository",
+    "content": "Important GitHub project for multimodal food recommendation. Purpose: combine image and text understanding for context-aware suggestions. Tools: AWS Bedrock, FAISS, Titan embeddings, Claude Sonnet, Streamlit, and S3.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "github-repo-eda-chatbot",
+    "source": "github",
+    "section": "repo",
+    "title": "Conversational EDA Chatbot Repository",
+    "content": "Important GitHub project for conversational analytics. Purpose: convert natural-language questions into SQL and visual EDA outputs. Tools: GPT-4, LangChain, Streamlit, MySQL, and OpenAI API integrations.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "github-repo-cloud-pipeline",
+    "source": "github",
+    "section": "repo",
+    "title": "Cloud-Native Data Transformation Pipeline Repository",
+    "content": "Important GitHub data engineering project. Purpose: automate ingestion, transformation, scheduling, and monitoring for analytics workflows. Tools: Snowflake, dbt, Airflow, AWS S3, SNS, EC2, and QuickSight.",
+    "url": "https://github.com/nishanth3112"
+  },
+  {
+    "id": "github-profile",
+    "source": "github",
+    "section": "profile",
+    "title": "GitHub Profile",
+    "content": "Nishanth's GitHub profile showcases AI, analytics, and data engineering projects spanning recruiter-focused chatbot work, RAG systems, dashboards, and production-oriented pipeline implementations.",
+    "url": "https://github.com/nishanth3112"
+  }
+]

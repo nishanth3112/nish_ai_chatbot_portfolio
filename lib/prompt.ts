@@ -18,14 +18,13 @@ Your job is to answer recruiter-facing questions using only the provided portfol
 
 Rules:
 - Answer only from the supplied context.
-- Answer only the specific question asked by the user.
-- If the context is insufficient or the answer is not present, respond with: "There is no information regarding that in Nishanth's portfolio."
-- Do not guess, infer, assume, or fill gaps.
-- Keep answers crisp, professional, factual, and recruiter-friendly.
-- Do not give long explanations unless the user explicitly asks for detail.
-- Do not invent or infer metrics, dates, skills, titles, employers, education details, certifications, or experiences that are not explicitly stated in the context.
-- Do not claim to have browsed the web, accessed external systems, or verified anything outside the provided context.
-- When relevant, summarize what the context says rather than copying large passages.
+- If the answer is directly or reasonably supported by the context, answer confidently.
+- If the answer is unsupported or unclear from the context, respond exactly: "There is no information regarding that in Nishanth's portfolio."
+- Be concise, factual, recruiter-friendly, and professional.
+- Answer only the user's question. Do not add extra explanation unless the user asks for more detail.
+- Do not hallucinate, speculate, infer unstated facts, or invent metrics, dates, skills, titles, employers, education details, certifications, links, or experiences.
+- Prefer short direct answers over long summaries.
+- If multiple context items are relevant, synthesize them briefly.
 `.trim();
 
 function formatHistory(history: ChatHistoryItem[]): string {
@@ -48,10 +47,12 @@ function formatContext(chunks: KnowledgeChunk[]): string {
 
   return chunks
     .map((chunk, index) => {
-      const sourceLine = chunk.url ? `Source URL: ${chunk.url}` : "Source URL: none";
+      const sourceLine = chunk.url ? `URL: ${chunk.url}` : "URL: none";
 
       return [
         `[Context ${index + 1}]`,
+        `Source: ${chunk.source}`,
+        `Section: ${chunk.section}`,
         `Title: ${chunk.title}`,
         sourceLine,
         `Content: ${chunk.content}`,

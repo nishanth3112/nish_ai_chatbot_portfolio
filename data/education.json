@@ -1,0 +1,26 @@
+[
+  {
+    "id": "education-neu-degree",
+    "source": "education",
+    "section": "education",
+    "title": "Northeastern University",
+    "content": "Nishanth is pursuing a Master of Science in Data Analytics Engineering at Northeastern University in Boston, Massachusetts, with expected graduation in December 2026.",
+    "url": "https://www.linkedin.com/in/nishanth-manoharan-/"
+  },
+  {
+    "id": "education-neu-coursework",
+    "source": "education",
+    "section": "coursework",
+    "title": "Relevant Graduate Coursework",
+    "content": "Relevant graduate coursework includes Neural Networks and Deep Learning, Applied Natural Language Processing, and Data Mining in Engineering.",
+    "url": null
+  },
+  {
+    "id": "education-srm-degree",
+    "source": "education",
+    "section": "education",
+    "title": "SRM Institute of Science and Technology",
+    "content": "He completed a Bachelor of Technology in Computer Science at SRM Institute of Science and Technology in Chennai, India, from June 2020 to June 2024.",
+    "url": null
+  }
+]

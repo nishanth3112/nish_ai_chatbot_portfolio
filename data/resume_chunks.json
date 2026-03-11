@@ -1,0 +1,82 @@
+[
+  {
+    "id": "resume-summary",
+    "source": "resume",
+    "section": "summary",
+    "title": "Resume Summary",
+    "content": "Nishanth Manoharan is a graduate student in Data Analytics Engineering with experience spanning generative AI, retrieval evaluation, data engineering, analytics, machine learning, dashboarding, and recruiter-facing AI assistants.",
+    "url": null
+  },
+  {
+    "id": "resume-experience-exact-sciences",
+    "source": "resume",
+    "section": "experience",
+    "title": "Resume Experience: Exact Sciences",
+    "content": "Current role: Generative AI Engineer Co-op at Exact Sciences since January 2026. Key work includes BM25 versus dense embedding retrieval benchmarks, reranker evaluation, embedding model benchmarking, enterprise RAG evaluation frameworks, synthetic knowledge base generation, and LLM evaluation for hallucination and PII risk.",
+    "url": null
+  },
+  {
+    "id": "resume-experience-neu",
+    "source": "resume",
+    "section": "experience",
+    "title": "Resume Experience: Northeastern University GTA",
+    "content": "Graduate Teaching Assistant at Northeastern University from January 2025 to April 2025. Responsibilities included teaching Python, statistical modeling, clustering, NLP, and time-series forecasting, while supporting lab work and coding assessments.",
+    "url": null
+  },
+  {
+    "id": "resume-experience-swed",
+    "source": "resume",
+    "section": "experience",
+    "title": "Resume Experience: SWEDEnterprises",
+    "content": "Data Analyst Intern at SWEDEnterprises from January 2024 to June 2024. Work included SQL and Python SCD frameworks, Tableau dashboards, forecasting pipelines, data validation automation, and recycling or supply-chain analysis.",
+    "url": null
+  },
+  {
+    "id": "resume-education",
+    "source": "resume",
+    "section": "education",
+    "title": "Resume Education",
+    "content": "Education includes a Master of Science in Data Analytics Engineering at Northeastern University with expected graduation in December 2026, and a Bachelor of Technology in Computer Science from SRM Institute of Science and Technology completed in June 2024.",
+    "url": null
+  },
+  {
+    "id": "resume-project-rag",
+    "source": "resume",
+    "section": "projects",
+    "title": "Resume Project: RAG and Agentic Systems",
+    "content": "Representative RAG-focused projects include an Autonomous Agentic Wealth Management Chatbot, a Multimodal RAG-Based Food Recommendation System, a Conversational EDA Chatbot, and an Intelligent Financial Reporting Agent.",
+    "url": null
+  },
+  {
+    "id": "resume-project-data-engineering",
+    "source": "resume",
+    "section": "projects",
+    "title": "Resume Project: Data Engineering Pipelines",
+    "content": "Representative data engineering projects include a Cloud-Native Data Transformation Pipeline, a Distributed Log Analytics Pipeline on Azure, a Medallion Architecture pipeline for water sensor data, and a Real-Time Financial Data Pipeline on AWS.",
+    "url": null
+  },
+  {
+    "id": "resume-project-ml",
+    "source": "resume",
+    "section": "projects",
+    "title": "Resume Project: Machine Learning and NLP Work",
+    "content": "Representative machine learning and NLP work includes Clinical Notes Disease Classification, Fashion Product Image Generation, and Enhancing Genomic Data Interpretation.",
+    "url": null
+  },
+  {
+    "id": "resume-skills",
+    "source": "resume",
+    "section": "skills",
+    "title": "Resume Skills",
+    "content": "Skills across resume variants include Python, SQL, PySpark, LangChain, LlamaIndex, FAISS, Chroma, PyTorch, TensorFlow, Snowflake, dbt, Airflow, Tableau, Power BI, AWS, Azure, Databricks, Docker, and Microsoft Fabric.",
+    "url": null
+  },
+  {
+    "id": "resume-certifications",
+    "source": "resume",
+    "section": "certifications",
+    "title": "Resume Certifications",
+    "content": "Certifications listed in the resume set include AWS Certified AI Practitioner and Databricks Certified Data Engineer Associate.",
+    "url": null
+  }
+]
