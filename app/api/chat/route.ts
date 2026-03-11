@@ -11,6 +11,8 @@ const ALLOWED_ORIGIN = (
 ).trim();
 const MAX_MESSAGE_LENGTH = 2000;
 const MAX_HISTORY_ITEMS = 12;
+const FALLBACK_ANSWER =
+  "There is no information regarding that in Nishanth's portfolio.";
 
 type ChatHistoryItem = {
   role: "user" | "assistant";
@@ -167,11 +169,13 @@ export async function POST(request: NextRequest) {
 
   try {
     const answer = await callChatModel(systemPrompt, userPrompt);
+    const sources =
+      answer === FALLBACK_ANSWER ? [] : retrieval.sources;
 
     return jsonResponse(
       {
         answer,
-        sources: retrieval.sources,
+        sources,
       },
       200,
       origin,
