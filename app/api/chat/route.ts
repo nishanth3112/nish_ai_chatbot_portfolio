@@ -6,9 +6,10 @@ import { retrieveRelevantChunks } from "../../../lib/retrieve";
 
 export const runtime = "nodejs";
 
-const ALLOWED_ORIGIN = (
-  process.env.ALLOWED_ORIGIN || "https://nish-ai-base.base44.app"
-).trim();
+const DEFAULT_ALLOWED_ORIGINS = [
+  "https://nishai.site",
+  "https://nish-ai-base.base44.app",
+];
 const MAX_MESSAGE_LENGTH = 2000;
 const MAX_HISTORY_ITEMS = 12;
 const FALLBACK_ANSWER =
@@ -29,6 +30,30 @@ type RateLimitResult = {
   retryAfterSeconds?: number;
 };
 
+function normalizeOrigin(origin: string): string {
+  return origin.trim().replace(/\/+$/, "");
+}
+
+function getAllowedOrigins(): string[] {
+  const configured = process.env.ALLOWED_ORIGIN
+    ?.split(",")
+    .map((origin) => normalizeOrigin(origin))
+    .filter(Boolean);
+
+  return configured && configured.length > 0
+    ? configured
+    : DEFAULT_ALLOWED_ORIGINS;
+}
+
+function isAllowedOrigin(origin: string | null): origin is string {
+  if (!origin) {
+    return false;
+  }
+
+  const normalizedOrigin = normalizeOrigin(origin);
+  return getAllowedOrigins().includes(normalizedOrigin);
+}
+
 function buildCorsHeaders(origin: string | null): HeadersInit {
   const headers: HeadersInit = {
     "Access-Control-Allow-Methods": "POST, OPTIONS",
@@ -36,8 +61,8 @@ function buildCorsHeaders(origin: string | null): HeadersInit {
     Vary: "Origin",
   };
 
-  if (origin === ALLOWED_ORIGIN) {
-    headers["Access-Control-Allow-Origin"] = origin;
+  if (isAllowedOrigin(origin)) {
+    headers["Access-Control-Allow-Origin"] = normalizeOrigin(origin);
   }
 
   return headers;
@@ -104,7 +129,7 @@ async function checkRateLimit(_identifier: string): Promise<RateLimitResult> {
 export async function OPTIONS(request: NextRequest) {
   const origin = request.headers.get("origin");
 
-  if (origin !== ALLOWED_ORIGIN) {
+  if (!isAllowedOrigin(origin)) {
     return new NextResponse(null, {
       status: 403,
       headers: buildCorsHeaders(origin),
@@ -120,7 +145,7 @@ export async function OPTIONS(request: NextRequest) {
 export async function POST(request: NextRequest) {
   const origin = request.headers.get("origin");
 
-  if (origin !== ALLOWED_ORIGIN) {
+  if (!isAllowedOrigin(origin)) {
     return jsonResponse({ error: "Origin not allowed." }, 403, origin);
   }
 
